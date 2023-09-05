@@ -1,0 +1,11 @@
+.brandImg {
+    transition-duration: .4s;
+}
+#bgimg{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.brandImg:hover {
+    transform: scale(1.2);
+}

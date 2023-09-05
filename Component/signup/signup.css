@@ -1,0 +1,51 @@
+.nn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: lightgreen;
+    background-image: url(https://img.freepik.com/free-photo/supermarket-banner-concept-with-ingredients_23-2149421147.jpg?w=826&t=st=1693889120~exp=1693889720~hmac=88de3125597508c4833679bd9e9a8fb3ebc47f6f40398efba00cb219e31dcae8);
+    
+  }
+
+ 
+  
+  /* Style the heading */
+.nnn {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333; /* Text color */
+  }
+  
+  /* Style labels and inputs */
+  .nnnn {
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: #555; /* Label text color */
+  }
+  
+  input[type="text"],
+  input[type="password"] { 
+    width: 20%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc; /* Input border */
+    border-radius: 5px;
+    font-size: 26px;
+    color: #333; /* Input text color */
+  }
+  
+  /* Style the login button */
+  .n {
+    padding: 10px 20px;
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Button text color */
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  
